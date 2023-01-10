@@ -1,4 +1,4 @@
-<img src="Screenshot(354).png" style="background-size: cover !important;  float: left; margin-right: 10px; width: 290px; height: 156px;" alt="title" >
+![](https://github.com/Saumya-Bisht/Saumya-Bisht/blob/main/Screenshot%20(354).png)
 <h1 align="center">Hi 👋, I'm Saumya Bisht</h1>
 <h3 align="center">I am a 2022 graduate of Bachelors of Technology in Computer Science and Engineering. Currently I am upskilling myself by exploring some new technologies and I am placed in Wipro Technologies as a Project Engineer. Also, I am working on Javascript now-a-days and improving my front-end development skills.</h3>
 
