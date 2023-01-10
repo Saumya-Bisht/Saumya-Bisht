@@ -1,4 +1,4 @@
-![](https://github.com/Saumya-Bisht/Saumya-Bisht/blob/main/Screenshot%20(354).png)
+[![](https://saumya-bisht.github.io/Saumya/)](https://saumya-bisht.github.io)
 <h1 align="center">Hi 👋, I'm Saumya Bisht</h1>
 <h3 align="center">I am a 2022 graduate of Bachelors of Technology in Computer Science and Engineering. Currently I am upskilling myself by exploring some new technologies and I am placed in Wipro Technologies as a Project Engineer. Also, I am working on Javascript now-a-days and improving my front-end development skills.</h3>
 
