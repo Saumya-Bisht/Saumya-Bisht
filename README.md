@@ -1,7 +1,7 @@
 ![](https://github.com/Saumya-Bisht/Saumya-Bisht/blob/main/laptop%20wave.png)
 <h1 align="center">Hi 👋, I'm Saumya Bisht</h1>
 <h3 align="center">I am a 2022 graduate of Bachelors of Technology in Computer Science and Engineering. Currently I am upskilling myself by exploring some new technologies and I am placed in Wipro Technologies as a Project Engineer. Also, I am working on Javascript now-a-days and improving my front-end development skills.</h3>
-<img align="right" alt="coding" width="200" src="https://media.tenor.com/x386YYsw2FIAAAAC/daily-good.gif" >
+<img align="left" alt="coding" width="300" src="https://media.tenor.com/x386YYsw2FIAAAAC/daily-good.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumya-bisht&label=Profile%20views&color=0e75b6&style=flat" alt="saumya-bisht" /> </p>
 
