@@ -1,4 +1,5 @@
-[![](https://saumya-bisht.github.io/Saumya/)](https://saumya-bisht.github.io)
+<!-- [![](https://media.tenor.com/oRpvVCFlpNMAAAAC/crt-anime.gif)](https://saumya-bisht.github.io) -->
+<img align="left" alt="coding" width="100%" height="300" src="https://media.tenor.com/yyP4tPzfqGoAAAAC/anime.gif" >
 <h1 align="center">Hi 👋, I'm Saumya Bisht</h1>
 <h3 align="center">I am a 2022 graduate of Bachelors of Technology in Computer Science and Engineering. Currently I am upskilling myself by exploring some new technologies and I am placed in Wipro Technologies as a Project Engineer. Also, I am working on Javascript now-a-days and improving my front-end development skills.</h3>
 
