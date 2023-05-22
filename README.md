@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/saumyabisht13" target="blank"><img src="https://img.shields.io/twitter/follow/saumyabisht13?logo=twitter&style=for-the-badge" alt="saumyabisht13" /></a> </p>
 <img align="left" alt="coding" width="300" src="https://media.tenor.com/x386YYsw2FIAAAAC/daily-good.gif" >
 
-- 🔭 I’m currently working on **A food-ordering website.**
+- 🔭 I’m currently working on **A product's website.**
 
 - 🌱 I’m currently learning **Javascript, DSA, Full Stack Web Development**
 
